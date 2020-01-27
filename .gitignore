@@ -1,0 +1,6 @@
+.vscode/
+venv/
+content_type/db.sqlite3
+content_type/content_type/__pycache__/
+content_type/user_choice/migrations/
+content_type/user_choice/__pycache__/
